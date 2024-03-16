@@ -1,16 +1,16 @@
-# Oi, me chamo Caio Henrique 👋
+# Hi, my name is Caio Henrique 👋
 
-### Sobre mim
+### About me
 
-💻 Eu sou um desenvolvedor Front-End | Back-End | Fullstack
+💻 I am a Front-End | Backend | Fullstack Developer
 
-🎓 Eu estou cursando [Analise e Desenvolvimento de Sistemas](https://unifametro.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/?modalidade=presencial) na [UniFametro](https://unifametro.edu.br)
+🎓 I'm studying [Systems Analysis and Development](https://unifametro.edu.br/graduacao/analise-e-desenvolvimento-de-sistemas/?modalidade=presencial) at [UniFametro](https://unifametro.edu.br)
 
-👩‍💻 Atualmente eu trabalho como Trainee na [@wdatecnologia](https://github.com/wdatecnologia)
+👩‍💻 Currently I work as a Trainee at [@wdatecnologia](https://github.com/wdatecnologia)
 
-### Eu já trabalhei com... 🔧
+### I've worked with... 🔧
 
-**Tecnologias e Ferramentas**
+**Technologies and Tools**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +34,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CAIO-HENRIQU3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Entre em contato comigo! 📭
+### Contact me! 📭
 <div>
 <a href="https://www.linkedin.com/in/caio-henrique-de-souza-lira-275bb12a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
